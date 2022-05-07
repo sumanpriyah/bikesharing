@@ -60,4 +60,4 @@ maintenance by looking number of trips per bike id.
 
 Tableau Public link 
 
-[link to dashboard](www.cnn.com)
+[link to dashboard](https://www.cnn.com/)
