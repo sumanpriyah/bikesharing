@@ -60,4 +60,4 @@ maintenance by looking number of trips per bike id.
 
 Tableau Public link 
 
-[link to dashboard](https://www.cnn.com/)
+[link to dashboard](https://public.tableau.com/app/profile/suman.priya/viz/Bike-SharingAnalysisinNYCforDesMoinesProject/CheckoutTimesforUsers?publish=yes)
