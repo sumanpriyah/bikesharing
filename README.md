@@ -7,7 +7,9 @@ in Des Moines. For this project data is extracted from a New York Citi Bike and 
 ## Deliverables
 
 1 Change Trip Duration to a Datetime Format
+
 2 Create Visualizations for the Trip Analysis
+
 3 Create a Story and Report for the Final Presentation
 
 ## Results:
@@ -58,7 +60,7 @@ The bikes and bike stations are across Manhattan, Brooklyn, Queens, the Bronx, J
 The two additional Visualization which can be important for Des Moines are number of bikes rented per hour during the week and by Gender and age group.
 
 ### Bike Rental per hour per week
-![]()
+![](https://github.com/sumanpriyah/bikesharing/blob/main/Images/bikes%20per%20week%20and%20per%20hour.png)
 Maximum Bike renting for the week and hours 
 Sunday and Saturday - Between 10 am to 7 pm
 Monday, Tuesday, Wednesday, Thursday, Friday - 8 am and 5-6 pm 
@@ -69,11 +71,12 @@ more people can subscribe and tend to use bikes for everyday commute. More bikes
 Over the weekends more bikes should be provided for other busiest and popular location. Bike maintenance should be done on off hours when people tend to rent less bikes. 
 
 ### Bike Rental Gender and Birth year 
-![]()
+![](https://github.com/sumanpriyah/bikesharing/blob/main/Images/City%20Ride%20Gender_BirthYear.png)
 
 Another graph gives us idea about people with certain age and Gender tends to rent more bikes. Where the average Male location is more with certain age group 
-e.g people born from 1979 to 1996 tend to rent more bikes than other age group. Males rent more bikes than females and unknown.
+e.g people born from 1979 to 1996 tend to rent more bikes than other age group. Males rent more bikes than females and unknown.More bikes should be provided 
+for certain age and male population who rents more bikes than other age and gender group.
 
 Tableau Public link 
 
-[link to dashboard](https://public.tableau.com/app/profile/suman.priya/viz/ABike-SharingAnalysisinNYCforDesMoinesProject/NYCCitiBikebyweekandhours?publish=yes)
+[link to dashboard](https://public.tableau.com/app/profile/suman.priya/viz/ABike-SharingAnalysisinNYCforDesMoinesProject/NYCCitiBikeDashboard?publish=yes)
